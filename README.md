@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-This is for the bikeshare.py project. This is for analyzing bikeshare patterns
+This is for the bikeshare.py project. This is for analyzing bikeshare patterns. Another improve
 ### Files used
 Include the files used
 
